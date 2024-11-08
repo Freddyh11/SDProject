@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+LV0AC+zRM=",
+  "success": true,
+  "projectFilePath": "/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDServer/SDServer.csproj",
+  "expectedPackageFiles": [
+    "/Users/freddyhernandez/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/freddyhernandez/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/freddyhernandez/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.33/microsoft.netcore.app.host.osx-arm64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

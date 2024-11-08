@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>SDClient</RootNamespace>
+    <AssemblyName>SDClient</AssemblyName>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo> <!-- Add this line -->
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\PRSServer\PRSLib\PRSLib.csproj" />
+  </ItemGroup>
+</Project>

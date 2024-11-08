@@ -1,0 +1,9 @@
+/Users/freddyhernandez/Downloads/CST415#4/PRSServer/PRSLib/bin/Debug/net6.0/PRSLib.deps.json
+/Users/freddyhernandez/Downloads/CST415#4/PRSServer/PRSLib/bin/Debug/net6.0/PRSLib.dll
+/Users/freddyhernandez/Downloads/CST415#4/PRSServer/PRSLib/bin/Debug/net6.0/PRSLib.pdb
+/Users/freddyhernandez/Downloads/CST415#4/PRSServer/PRSLib/obj/Debug/net6.0/PRSLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/freddyhernandez/Downloads/CST415#4/PRSServer/PRSLib/obj/Debug/net6.0/PRSLib.csproj.CoreCompileInputs.cache
+/Users/freddyhernandez/Downloads/CST415#4/PRSServer/PRSLib/obj/Debug/net6.0/PRSLib.dll
+/Users/freddyhernandez/Downloads/CST415#4/PRSServer/PRSLib/obj/Debug/net6.0/refint/PRSLib.dll
+/Users/freddyhernandez/Downloads/CST415#4/PRSServer/PRSLib/obj/Debug/net6.0/PRSLib.pdb
+/Users/freddyhernandez/Downloads/CST415#4/PRSServer/PRSLib/obj/Debug/net6.0/ref/PRSLib.dll

@@ -1,0 +1,17 @@
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/bin/Debug/net6.0/SDClient
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/bin/Debug/net6.0/SDClient.dll.config
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/bin/Debug/net6.0/SDClient.deps.json
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/bin/Debug/net6.0/SDClient.runtimeconfig.json
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/bin/Debug/net6.0/SDClient.dll
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/bin/Debug/net6.0/SDClient.pdb
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/bin/Debug/net6.0/PRSLib.dll
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/bin/Debug/net6.0/PRSLib.pdb
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/obj/Debug/net6.0/SDClient.csproj.AssemblyReference.cache
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/obj/Debug/net6.0/SDClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/obj/Debug/net6.0/SDClient.csproj.CoreCompileInputs.cache
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/obj/Debug/net6.0/SDClient.csproj.Up2Date
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/obj/Debug/net6.0/SDClient.dll
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/obj/Debug/net6.0/refint/SDClient.dll
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/obj/Debug/net6.0/SDClient.pdb
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/obj/Debug/net6.0/SDClient.genruntimeconfig.cache
+/Users/freddyhernandez/Downloads/CST415#4/SDServer/SDClient/obj/Debug/net6.0/ref/SDClient.dll
